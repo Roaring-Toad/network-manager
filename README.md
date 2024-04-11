@@ -1,5 +1,7 @@
 # network-manager
 
+This is a local fork from https://github.com/balena-io-modules/network-manager.
+
 > Rust NetworkManager bindings
 
 [![Current Release](https://img.shields.io/github/release/balena-io-modules/network-manager.svg?style=flat-square)](https://github.com/balena-io-modules/network-manager/releases/latest)
